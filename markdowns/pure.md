@@ -1,3 +1,4 @@
+**La programmation fonctionnelle** est quelque chose que vous avez surement déjà entendu  
 **Functional programming** is one of those things that you probably heard about, but never approached, because it looked too hard or too theoretical. Wait no more! In this course, I'll introduce you to functional programming through examples and exercises in a familiar language: JavaScript.  
 
 - Recursion
