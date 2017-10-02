@@ -1,8 +1,5 @@
 **Functional programming** is one of those things that you probably heard about, but never approached, because it looked too hard or too theoretical. Wait no more! In this course, I'll introduce you to functional programming through examples and exercises in a familiar language: JavaScript.  
-As a reference, here are the topics we'll talk about:  
-- Pure functions
-- Higher Order Functions
-- Currying
+
 - Recursion
 - Functors
 - Monads
